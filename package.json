@@ -1,6 +1,7 @@
 {
   "name": "kfolder",
   "version": "1.0.0",
+  "type": "module",
   "description": "CLI que lista recursivamente todos os arquivos de um diretório em ordem alfabética.",
   "license": "MIT",
   "main": "dist/cli.js",
